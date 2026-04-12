@@ -15,7 +15,7 @@
 const felipe: Developer = {
   name: "Felipe Minetto",
   role: ["Software Engineer", "Cloud Architect", "Mobile Developer"],
-  location: "Brazil 🇧🇷  →  USA 🇺🇸 (soon)",
+  location: "Brazil 🇧🇷",
   focus: ["Backend APIs", "Cloud Infrastructure", "Mobile Apps", "DevSecOps"],
   languages: ["TypeScript", "Python", "JavaScript", "C++", "Bash", "Rust"],
   currentlyBuilding: "Scalable cloud-native apps & cross-platform mobile experiences",
