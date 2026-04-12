@@ -107,7 +107,7 @@ const felipe: Developer = {
   <a href="https://instagram.com/pqpminetto" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:fminetto44@gmail.com">
+  <a href="mailto:felipe@dazor.com.br">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/fminetto" target="_blank">
