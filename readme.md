@@ -77,12 +77,16 @@ const felipe: Developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fminetto&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fminetto&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff"/>
+
+<a href="https://github.com/fminetto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fminetto&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fminetto&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+</a>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fminetto&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" alt="fminetto streak"/>
+  <img src="https://streak-stats.demolab.com/?user=fminetto&theme=github-dark-blue&hide_border=true" alt="fminetto streak"/>
 </div>
 
 ---
@@ -97,7 +101,7 @@ const felipe: Developer = {
 
 ---
 
-## 📬 Connect with Me
+## 📫 Connect with Me
 
 <p align="center">
   <a href="https://instagram.com/pqpminetto" target="_blank">
